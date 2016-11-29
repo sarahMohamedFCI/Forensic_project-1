@@ -7,9 +7,9 @@ package forensic_project;
  */
 public class Forensic_project {
   //main Function
-    //create
+   
     public static void main(String[] args) {
-      String test="hello";
+   //comment test
      
     }
     
