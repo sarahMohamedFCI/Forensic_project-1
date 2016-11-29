@@ -10,6 +10,7 @@ public class Forensic_project {
    
     public static void main(String[] args) {
    //comment test
+        System.out.println("test");
      
     }
     
